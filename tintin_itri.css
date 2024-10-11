@@ -1,0 +1,41 @@
+body {
+  background-image: url("arriere plan tintin.png");
+
+  #para1 {
+  font-family: comicsans;
+  font-style: italic;
+  font-size: 20px;
+  color: white;
+
+  }
+
+  #para2 {
+  font-family: comicsans;
+  font-size: 15px;
+  color: white;
+
+  }
+
+  #para3 {
+  font-family: 'Comic Sans MS','Comic Sans';
+  font-size: 15px;
+  color: white;
+  }
+
+}
+
+a {
+  color: yellow;
+}
+
+#para4 {
+  font-family: comicsans;
+  font-size: 10px;
+  color: white;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
